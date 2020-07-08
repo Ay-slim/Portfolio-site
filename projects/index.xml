@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ayooluwa</title>
+    <link>https://ay-slim.github.io/Portfolio-site/projects/</link>
+    <description>Recent content in Projects on Ayooluwa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ay-slim.github.io/Portfolio-site/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Electricity prediction- Time Series Forecasting Project (click here to explore)</title>
+      <link>https://ay-slim.github.io/Portfolio-site/projects/chapter-6/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ay-slim.github.io/Portfolio-site/projects/chapter-6/</guid>
+      <description>Electricity is a big deal; the life blood of the global economy without which not even the internet can work. This is why I chose to work on an electricity consumption dataset using time series analysis for my final capstone project at Stutern. The data was sourced from the London Smart meters Kaggle dataset and the plan is to eventually extend this application to the Nigerian electricity industry.
+Tasks: Time series analysis, Forecasting with SARIMA, FB Prophet and LSTM.</description>
+    </item>
+    
+    <item>
+      <title>Loan Prediction (click here to explore)</title>
+      <link>https://ay-slim.github.io/Portfolio-site/projects/chapter-4/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ay-slim.github.io/Portfolio-site/projects/chapter-4/</guid>
+      <description>This project involved building predictive models to classify the performance of loans given out by a commercial bank. The data is real world data from a financial institution in Nigeria. In addition to making predictions, we also involved a loan classification framework that can allow users to quickly estimate a given customer&amp;rsquo;s eligibility at a quick glance.
+  Link to Github repo: &amp;ldquo;https://github.com/Ay-slim/Data-Science-Portfolio--Ayooluwa/tree/master/Capstone%20Group%20Project-%20Loan%20Prediction&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>Beginner Tasks (click here to explore)</title>
+      <link>https://ay-slim.github.io/Portfolio-site/projects/project_2/</link>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ay-slim.github.io/Portfolio-site/projects/project_2/</guid>
+      <description>This is a collection of various tasks from basic programming to implementing machine learning algorithms. Most of these were submitted as practice laboratory assignments and they include introductory datasets in Machine Learning such as MTCars and others.
+  Link to Github repo: &amp;ldquo;https://github.com/Ay-slim/Data-Science-Portfolio--Ayooluwa/tree/master/Practice_Lab_Submissions&amp;quot;</description>
+    </item>
+    
+  </channel>
+</rss>
